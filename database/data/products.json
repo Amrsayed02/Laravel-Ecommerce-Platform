@@ -1,0 +1,93 @@
+[
+    {
+    "name": "تيشيرت أبيض كلاسيك",
+    "slug": "classic-white-tshirt",
+    "description": "تيشيرت قطني مريح بقصة عادية.",
+    "price": 299,
+    "image": "...",
+    "stock": 120,
+    "category": "ملابس"
+    },
+    {
+    "name": "بنطلون جينز أزرق",
+    "slug": "blue-denim-jeans",
+    "description": "جينز ضيق بمرونة عالية.",
+    "price": 1499,
+    "image": "...",
+    "stock": 60,
+    "category": "ملابس"
+    },
+    {
+    "name": "حذاء رياضي للجري",
+    "slug": "sports-running-shoes",
+    "description": "حذاء خفيف بتهوية ممتازة.",
+    "price": 2499,
+    "image": "...",
+    "stock": 40,
+    "category": "أحذية"
+    },
+    {
+    "name": "محفظة جلد طبيعي",
+    "slug": "leather-wallet",
+    "description": "محفظة جلد متعددة الجيوب.",
+    "price": 899,
+    "image": "...",
+    "stock": 80,
+    "category": "إكسسوارات"
+    },
+    {
+    "name": "ساعة ذكية برو",
+    "slug": "smart-watch-pro",
+    "description": "ساعة ذكية لتتبع النشاط والإشعارات.",
+    "price": 5999,
+    "image": "...",
+    "stock": 25,
+    "category": "إلكترونيات"
+    },
+    {
+    "name": "سماعات عزل الضوضاء",
+    "slug": "noise-cancelling-headphones",
+    "description": "سماعات فوق الأذن بعزل ضوضاء عالي.",
+    "price": 7999,
+    "image": "...",
+    "stock": 30,
+    "category": "إلكترونيات"
+    },
+    {
+    "name": "حقيبة ظهر 30 لتر",
+    "slug": "backpack-30l",
+    "description": "حقيبة عملية مع مكان للابتوب.",
+    "price": 1599,
+    "image": "...",
+    "stock": 70,
+    "category": "حقائب"
+    },
+    {
+    "name": "نظارة شمسية UV400",
+    "slug": "sunglasses-uv400",
+    "description": "نظارة شمسية بحماية كاملة من الأشعة.",
+    "price": 799,
+    "image": "...",
+    "stock": 90,
+    "category": "إكسسوارات"
+    },
+    {
+    "name": "كوب سيراميك 350 مل",
+    "slug": "ceramic-mug-350ml",
+    "description": "كوب آمن للاستخدام في الميكروويف.",
+    "price": 299,
+    "image": "...",
+    "stock": 200,
+    "category": "منزل"
+    },
+    {
+    "name": "مصباح مكتب LED",
+    "slug": "desk-lamp-led",
+    "description": "مصباح بإضاءة قابلة للتعديل.",
+    "price": 1299,
+    "image": "...",
+    "stock": 50,
+    "category": "منزل"
+    }
+    ]
+    
